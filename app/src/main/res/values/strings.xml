@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DrawingApp</string>
+    <string name="small_brush">small brush</string>
+    <string name="medium_brush">medium brush</string>
+    <string name="large_brush">large brush</string>
+    <string name="change_the_size_of_brush">Change the size of brush</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">todo1</string>
+    <string name="todo2">todo2</string>
+    <string name="todo3">todo3</string>
+    <string name="todo4">todo4</string>
+    <string name="todo9">TODO1</string>
+    <string name="todo8">TODO8</string>
+    <string name="todo7">TODO</string>
+    <string name="todo6">TODO6</string>
+    <string name="todo5">TODO5</string>
+</resources>
